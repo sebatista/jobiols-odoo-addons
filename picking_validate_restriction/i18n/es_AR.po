@@ -1,0 +1,26 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+#	* picking_validate_restriction
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 11.0+e-20190201\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-04-05 22:55+0000\n"
+"PO-Revision-Date: 2019-04-05 22:55+0000\n"
+"Last-Translator: <>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: picking_validate_restriction
+#: model:res.groups,name:picking_validate_restriction.group_validate_picking
+msgid "Enable validate picking"
+msgstr "Habilitar validacion de entregas"
+
+#. module: picking_validate_restriction
+#: model:res.groups,comment:picking_validate_restriction.group_validate_picking
+msgid "If you do not have this, the validate button is invisible."
+msgstr "Si no tiene este permiso el boton validar de la orden de entrega estara invisible."

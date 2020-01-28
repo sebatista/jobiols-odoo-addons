@@ -123,7 +123,7 @@ class BaseModuleRecordObjects(models.TransientModel):
 
     name = fields.Char('Module Name', size=64)
     directory_name = fields.Char('Directory Name', size=32)
-    version = fields.Char('Version', default='11.0', size=16)
+    version = fields.Char('Version', default='10.0', size=16)
     author = fields.Char('Author', size=64, required=True,
                          default='Odoo SA')
     category = fields.Char('Category', size=64, required=True,

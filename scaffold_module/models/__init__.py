@@ -1,1 +1,3 @@
-# For copyright and license notices, see __manifest__.py file in module root
+# License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl).
+
+from . import model_name
